@@ -11,3 +11,8 @@ To make the reading experience more comfortable, Teleflow includes adjustable tr
   <img src="https://github.com/user-attachments/assets/1f0372ce-57c7-41bb-8bb8-27927fb7f03b" height="260"/>
   <img src="https://github.com/user-attachments/assets/536d3fa7-5d9f-4f39-8ade-2ed097427c8f" height="260"/>
 </p>
+
+### Installation Note
+
+Paperly is currently distributed as an independent macOS app.  
+Because it is not installed from the App Store, macOS may show a security prompt the first time you open it. You can open it by right-clicking the app and selecting Open.
